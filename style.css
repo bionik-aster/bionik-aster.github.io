@@ -19,11 +19,13 @@ nav {
   flex-direction: column;
   height: 100vh;
   padding: 0 0.5rem;
+  width: 250px
 }
 nav a {
   text-decoration: none;
   color: #1c1800;
   line-height: 50px;
+  font-size: 22px
 }
 nav a:hover {
   color: #c4a704
@@ -32,7 +34,7 @@ div .nav{
   padding: 30px 0;
 }
 .content {
-  margin-left: 220px; /*AI THANK YOU AI AAAHHHHHH*/
+  margin-left: 250px; /*AI THANK YOU AI AAAHHHHHH*/
   padding: 20px; /* Optional: aligns text normally */
 }
 @media screen and (max-width: 1010px) {
@@ -101,7 +103,7 @@ div .nav{
 /* the fuck am i doing :fire; */
 /* yarrrrr i steel de kode muahaha */
 @font-face {
-    font-family: 'minecraftia'; src: url('fonts/MinecraftiaRegular.ttf');
+    font-family: 'minecraftia'; src: url('fonts/Minecraftia-Regular.ttf');
 }
 @font-face {
     font-family: 'ikibimi'; src: url('fonts/AncientIkibimi-Regular.ttf');
