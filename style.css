@@ -1,0 +1,111 @@
+html {
+  font-family: minecraftia, Tahoma, Verdana, sans-serif;
+  text-align: center;
+  color: #1c1800;
+  font-size: 25px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  font-family: Tahoma, Verdana, sans-serif;
+  position: fixed;
+  left: 0;
+  background-color: #fecd1e;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 0 0.5rem;
+}
+nav a {
+  text-decoration: none;
+  color: #1c1800;
+  line-height: 50px;
+}
+nav a:hover {
+  color: #c4a704
+}
+div .nav{
+  padding: 30px 0;
+}
+.content {
+  margin-left: 220px; /*AI THANK YOU AI AAAHHHHHH*/
+  padding: 20px; /* Optional: aligns text normally */
+}
+@media screen and (max-width: 1010px) {
+  nav {
+    width: 200px; /* Make sidebar narrower */
+    padding: 0 0.4rem;
+  }
+
+  .content {
+    margin-left: 190px; /* Match sidebar's new width */
+    padding: 15px;
+  }
+
+  nav h1 {
+    font-size: 35px; /* Shrinks heading if needed */
+  }
+
+  nav a {
+    font-size: 20px;
+    line-height: 50px;
+  }
+
+  nav img {
+    width: 90%;
+    height: auto;
+  }
+}
+@media screen and (max-width: 768px) {
+  nav {
+    width: 120px; /* Make sidebar narrower */
+    padding: 0 0.3rem;
+  }
+
+  .content {
+    margin-left: 120px; /* Match sidebar's new width */
+    padding: 15px;
+  }
+
+  nav h1 {
+    font-size: 20px; /* Shrinks heading if needed */
+  }
+
+  nav a {
+    font-size: 13px;
+    line-height: 35px;
+  }
+
+  nav img {
+    width: 80%;
+    height: auto;
+  }
+}
+.top {
+  border: 2px #c00 solid;
+  border-radius: 5px;
+}
+.splash{
+    font-family: 'minecraftia', 'Montserrat', 'Calibri', 'sans-serif';
+    text-decoration: none;
+    color: #d00;
+    transition-delay: 0.2s;
+    text-decoration: none;
+    cursor: pointer;
+    user-select: none;
+}
+/* the fuck am i doing :fire; */
+/* yarrrrr i steel de kode muahaha */
+@font-face {
+    font-family: 'minecraftia'; src: url('fonts/MinecraftiaRegular.ttf');
+}
+@font-face {
+    font-family: 'ikibimi'; src: url('fonts/AncientIkibimi-Regular.ttf');
+}
+.ikibimi {
+  font-family: ikibimi, Tahoma, Verdana, sans-serif;
+}
