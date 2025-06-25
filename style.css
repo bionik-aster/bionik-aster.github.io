@@ -1,5 +1,5 @@
 html {
-  font-family: minecraftia, Tahoma, Verdana, sans-serif;
+  font-family: Tahoma, Verdana, sans-serif;
   text-align: center;
   color: #1c1800;
   font-size: 25px;
@@ -32,6 +32,7 @@ nav a:hover {
 }
 div .nav{
   padding: 30px 0;
+  font-family: ikibimi, Tahoma, Verdana, sans-serif;
 }
 .content {
   margin-left: 250px; /*AI THANK YOU AI AAAHHHHHH*/
