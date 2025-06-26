@@ -40,6 +40,10 @@ function cockandballs() {
         `deer lourdes`,
         `sleep is a type of meditation im not gonna use`,
         `if she leaves you for another there is always her brother`,
+        `bond with the lizard`,
+        `i just gave you prostate cancer`,
+        `sorry about the syphilis`,
+        `you cant put loyalty on a hoe`,
 
 
     ];
