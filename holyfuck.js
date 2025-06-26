@@ -44,6 +44,8 @@ function cockandballs() {
         `i just gave you prostate cancer`,
         `sorry about the syphilis`,
         `you cant put loyalty on a hoe`,
+        `stop it, get some help`,
+        `literally 1984`,
 
 
     ];
