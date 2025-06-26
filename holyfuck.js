@@ -20,6 +20,14 @@ function cockandballs() {
       `alive, alert and causing concern`,
       `dead, aloof, and still causing concern`,
       `the only soul i need is the one to find me the will to live`,
+      `made in china`,
+      `what if i put you in a jar`,
+        `truly a quote of all time`,
+        `cannibalism is a viable way of reducing the overpopulation problem`,
+        `does the alpha make the omega or the omega make the alpha`,
+        `gingerbrave aint running faster than the homing missile i sent`,
+        `the power lies in the people until they drop dead`,
+        `polen kannot into spaec`,
 
 
     ];
