@@ -38,6 +38,8 @@ function cockandballs() {
         `doing gods work without pay`,
         `benchic asfaleiocracy is nice`,
         `deer lourdes`,
+        `sleep is a type of meditation im not gonna use`,
+        `if she leaves you for another there is always her brother`,
 
 
     ];
