@@ -28,6 +28,16 @@ function cockandballs() {
         `gingerbrave aint running faster than the homing missile i sent`,
         `the power lies in the people until they drop dead`,
         `polen kannot into spaec`,
+        `crazy? i was crazy once`,
+        `one must imagine a coder happy`,
+        `i just want to talk to him`,
+        `obliteration of the self`,
+        `asterLP`,
+        `asterOS`,
+        `go4schools.github.io/projectbyp/`,
+        `doing gods work without pay`,
+        `benchic asfaleiocracy is nice`,
+        `deer lourdes`,
 
 
     ];
