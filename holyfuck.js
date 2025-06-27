@@ -65,6 +65,10 @@ function cockandballs() {
         `the only inevitable thing other than the heat death of the universe is taxes`,
         `<span style="color:#6495ed;font-family:Tahoma, Verdana, sans-serif;">its the IRS oh no</span>`,
         `in the name of the Oven, the Dough and the Witches`,
+        `thus began the Dark Flour War`,
+        `in this dream things arent as they seem`,
+        `funkinosc v69 when`,
+        `staring into the abyss until it stares back`,
 
 
     ];
