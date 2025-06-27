@@ -10,6 +10,51 @@ html {
   padding: 0;
   box-sizing: border-box;
 }
+/*gallery config*/
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+/*note to self: each gallery component takes up 1 <div class="gallery"> 
+because its that unoptimized but im too stupid and/or lazy to figure that part out*/
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/*sidebar navbox config*/
 nav {
   font-family: Tahoma, Verdana, sans-serif;
   position: fixed;
@@ -27,16 +72,19 @@ nav a {
   line-height: 50px;
   font-size: 22px
 }
+
 nav a:hover {
   color: #c4a704
 }
 div .nav{
   padding: 30px 0;
 }
+
 .content {
   margin-left: 250px; /*AI THANK YOU AI AAAHHHHHH*/
   padding: 20px; /* Optional: aligns text normally */
 }
+/*screen config*/
 @media screen and (max-width: 1010px) {
   nav {
     width: 200px; /* Make sidebar narrower */
@@ -52,6 +100,10 @@ div .nav{
     font-size: 35px; /* Shrinks heading if needed */
   }
 
+  nav h3 {
+    font-size: 30px;
+  }
+  
   nav a {
     font-size: 20px;
     line-height: 50px;
@@ -62,6 +114,7 @@ div .nav{
     height: auto;
   }
 }
+
 @media screen and (max-width: 768px) {
   nav {
     width: 120px; /* Make sidebar narrower */
@@ -77,6 +130,10 @@ div .nav{
     font-size: 20px; /* Shrinks heading if needed */
   }
 
+  nav h3 {
+    font-size: 17px;
+  }
+  
   nav a {
     font-size: 13px;
     line-height: 35px;
