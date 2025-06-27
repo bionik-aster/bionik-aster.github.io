@@ -46,6 +46,7 @@ function cockandballs() {
         `you cant put loyalty on a hoe`,
         `stop it, get some help`,
         `literally 1984`,
+        `eugh an eraser`,
 
 
     ];
