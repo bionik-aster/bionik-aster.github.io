@@ -47,6 +47,14 @@ function cockandballs() {
         `stop it, get some help`,
         `literally 1984`,
         `eugh an eraser`,
+        `swallowing a big girthy banana rn`,
+        `<span class="ikibimi">ancient ikibimi</span>`,
+        `2 + 2 is fish<br/>change my mind`,
+        `imagine<br>inage breathing oxygen`,
+        `cheese`,
+        `hi kommit`,
+        `you people arent very nice`,
+        `<span style="color:green;">WHY EM SEE Æ</span>`,
 
 
     ];
