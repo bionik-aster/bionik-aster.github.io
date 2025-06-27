@@ -69,6 +69,8 @@ function cockandballs() {
         `in this dream things arent as they seem`,
         `funkinosc v69 when`,
         `staring into the abyss until it stares back`,
+        `we are runners we are makers we're making good`,
+        `line 73`,
 
 
     ];
