@@ -1,4 +1,5 @@
 # aster's website is real!!! 
+welcome to AsterOS, Aster's own Operating System !!
 ## the things
 AsterLP, short for AsterLinkPortal, always in the left sidebar
 
