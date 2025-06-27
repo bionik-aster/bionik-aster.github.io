@@ -55,6 +55,13 @@ function cockandballs() {
         `hi kommit`,
         `you people arent very nice`,
         `<span style="color:green;">WHY EM SEE Æ</span>`,
+        `waxed lightly weathered cut copper stairs`,
+        `menace to society since 2011`,
+        `made from stars`,
+        `you cant escape from the heat death of the universe`,
+        `remember its cognitive behavioral therapy!`,
+        `the tism is tickling my brain`,
+        `somehow good at everything that wont earn me money :pensive:`,
 
 
     ];
