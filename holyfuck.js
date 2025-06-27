@@ -63,7 +63,7 @@ function cockandballs() {
         `the tism is tickling my brain`,
         `somehow good at everything that wont earn me money :pensive:`,
         `the only inevitable thing other than the heat death of the universe is taxes`,
-        `<span style="color:cornflower blue;font-family:Tahoma, Verdana, sans-serif;">its the IRS oh no</span>`,
+        `<span style="color:#6495ed;font-family:Tahoma, Verdana, sans-serif;">its the IRS oh no</span>`,
         `in the name of the Oven, the Dough and the Witches`,
 
 
