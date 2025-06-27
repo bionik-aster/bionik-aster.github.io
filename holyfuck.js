@@ -50,7 +50,7 @@ function cockandballs() {
         `swallowing a big girthy banana rn`,
         `<span class="ikibimi">ancient ikibimi</span>`,
         `2 + 2 is fish<br/>change my mind`,
-        `imagine<br>inage breathing oxygen`,
+        `imagine<br>inagime breathing oxygen`,
         `cheese`,
         `hi kommit`,
         `you people arent very nice`,
@@ -62,6 +62,9 @@ function cockandballs() {
         `remember its cognitive behavioral therapy!`,
         `the tism is tickling my brain`,
         `somehow good at everything that wont earn me money :pensive:`,
+        `the only inevitable thing other than the heat death of the universe is taxes`,
+        `<span style="color:cornflower blue;font-family:Tahoma, Verdana, sans-serif;">its the IRS oh no</span>`,
+        `in the name of the Oven, the Dough and the Witches`,
 
 
     ];
