@@ -70,7 +70,14 @@ function cockandballs() {
         `funkinosc v69 when`,
         `staring into the abyss until it stares back`,
         `we are runners we are makers we're making good`,
-        `line 73`,
+        `life isnt fair`,
+        `sybau`,
+        `gimme 30 seconds`,
+        `fully automated luxury gay space communism`,
+        `print("your mother")`,
+        `refusing to draw humans since 2023`,
+        `:notes: can i get my ballz in yo jawz,,,:notes:`,
+        `line 80`,
 
 
     ];
