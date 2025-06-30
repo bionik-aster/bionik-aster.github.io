@@ -77,7 +77,12 @@ function cockandballs() {
         `print("your mother")`,
         `refusing to draw humans since 2023`,
         `:notes: can i get my ballz in yo jawz,,,:notes:`,
-        `line 80`,
+        `my name jeff`,
+        `god dammit son`,
+        `my dad told me not to commit tax fraud :D`,
+        `whats 9 + 10`,
+        `specimen a in action`,
+        `stop sexually harassing the table`,
 
 
     ];
