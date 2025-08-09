@@ -94,6 +94,7 @@ function cockandballs() {
         `<span style="color:#00bbff;">listen kid. aster, they're hiding something. i need to tell you before i get sho-<br/> -a dead kommit</span>`,
         `<span style="color:#00ff00;">i have thirty babies<br/> -echo, still high on weed</span>`,
         `<span style="color:#ffcd9c;">when the dust settles, just you and me remain.</span>`,
+        `<span style="color:#ffcd9c;">https://files.catbox.moe/jbfwh6.jpg</span>`,
 
 
     ];
