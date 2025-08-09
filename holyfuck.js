@@ -84,6 +84,16 @@ function cockandballs() {
         `specimen a in action`,
         `stop sexually harassing the table`,
         `melony: nooo ur supposed to expose someone else!! <br/> the seven expose doc tabs:`,
+        `not even god is ready for my arrival`,
+        `beantoast nation make way for fjordland`,
+        `im meerhagening it so good`,
+        `indeks.html`,
+        `men, go eat his ass`,
+        `zamn :drool:`,
+        `<span style="color:#ffcd9c;">i havent <i>killed</i> all those children 4 years ago</span>`,
+        `<span style="color:#00bbff;">listen kid. aster, they're hiding something. i need to tell you before i get sho-<br/> -a dead kommit</span>`,
+        `<span style="color:#00ff00;">i have thirty babies<br/> -echo, still high on weed</span>`,
+        `<span style="color:#ffcd9c;">when the dust settles, just you and me remain.</span>`,
 
 
     ];
