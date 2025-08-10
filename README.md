@@ -9,6 +9,11 @@ a bit of introduction id say
 
 probably adding more stuff (as well as splashtext) as time goes on
 
+## intro
+hello hello im asterOS the 14 year old responsible for running this site
+
+little do you know im not your normal 14 year old hacker, im worse
+
 ---
 sleep is but a concept not worth holding onto
 
