@@ -181,6 +181,17 @@ div .nav{
     background-color: rgba(119, 101, 245, 1);
     color: rgba(255, 161, 220, 1);
 }
+.buttonnavihere {
+  font-family: 'Montserrat', 'Calibri', 'sans-serif';
+  background-color: rgba(100, 188, 250, 0.47);
+  padding: 5px 17px 5px 17px; 
+  color: #0f0f0f;
+  margin-left: 10% auto;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: large;
+}
 /* the fuck am i doing :fire; */
 /* yarrrrr i steel de kode muahaha */
 @font-face {
