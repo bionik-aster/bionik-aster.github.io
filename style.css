@@ -148,10 +148,11 @@ div .nav{
   border: 2px #c00 solid;
   border-radius: 5px;
 }
-.inline nav {
+.inlinenavi {
   border: 2px #d00 solid;
   border-radius: 6px;
   background-color: rgba(255, 236, 122, 1);
+  margin-top: 0.5rem;
 }
 .splash{
     font-family: 'minecraftia', 'Montserrat', 'Calibri', 'sans-serif';
