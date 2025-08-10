@@ -157,6 +157,21 @@ div .nav{
     cursor: pointer;
     user-select: none;
 }
+.buttonnavi{
+    font-family: 'Montserrat', 'Calibri', 'sans-serif';
+    background-color: rgba(198, 126, 255, 0.47);
+    padding: 5px 17px 5px 17px;
+    color: #010101;
+    margin-left: 10% auto;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: large;
+}
+.buttonnavi:hover{
+    background-color: rgba(119, 101, 245, 1);
+    color: rgba(255, 161, 220, 1);
+}
 /* the fuck am i doing :fire; */
 /* yarrrrr i steel de kode muahaha */
 @font-face {
@@ -168,3 +183,6 @@ div .nav{
 .ikibimi {
   font-family: ikibimi, Tahoma, Verdana, sans-serif;
 }
+/* al capone be jealous cuh, cocaine is what i snort */
+/* cut myself into pieces this isnt what i snort */
+/* what am i doign with my life gng */
