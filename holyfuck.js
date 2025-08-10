@@ -103,6 +103,11 @@ function cockandballs() {
         `THE NETHER :fire:`,
         `running on about as much code as a fly's brain can handle in a second`,
         `organizing code? whats that?`,
+        `int main() { std::cout << "Hello world"; return 0;}`,
+        `C++ beginner since 2025`,
+        `no one seems to care that i exist and even i dont when im pissed /lyr`,
+        `holyfuck.js`,
+        `return to nothing`,
 
 
     ];
