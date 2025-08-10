@@ -2,24 +2,35 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css" type="text/css">
-    <meta name="description" content="Aster's homepage">
+    <link rel="stylesheet" href="../style.css" type="text/css">
+    <meta name="description" content="Aster News">
     <meta name="author" content="Aster">
-    <title>AsterLP - Home</title>
-    <link rel="shortcut icon" href="/images/favicon.png" type="image/png">
+    <title></title>
+    <link rel="shortcut icon" href="../images/favicon.png" type="image/png">
+    <script>
+    // Function to format the date
+    function formatDate(date) {
+      const options = { year: 'numeric', month: 'long', day: 'numeric' };
+      return date.toLocaleDateString(undefined, options);
+    }
+
+    // Set the title with custom text and current date
+    const today = new Date();
+    document.title = "Report for " + formatDate(today);
+  </script>
   </head>
   <body>
     <nav>
       <div class="nav">
-        <img src="/images/favicon-black.png" height="128">
+        <img src="../images/favicon-black.png" height="128">
         <h1 class="ikibimi">AstyLP</h1>
         <h3>aka AsterLP</h3>
       </div>
-      <a href="#top">Home</a><br/>
-      <a href="/bcr.gov/">BCR Official Website</a><br/>
-      <a href="/bcr_immigration/">BCR Immigration Portal</a><br/>
-      <a href="/kyzarion.kzr/">Kyzarion Official Website</a><br/>
-      <a href="/zabytykh.czr/">Zabytykh Website (Relocates to kyzarion.kzr)</a>
+      <a href="/">Home</a><br/>
+      <a href="../bcr.gov/">BCR Official Website</a><br/>
+      <a href="../bcr_immigration/">BCR Immigration Portal</a><br/>
+      <a href="../kyzarion.kzr/">Kyzarion Official Website</a><br/>
+      <a href="../zabytykh.czr/">Zabytykh Website (Relocates to kyzarion.kzr)</a>
     </nav>
     <div class="content">
       <div class="top" id="top">
@@ -31,17 +42,17 @@
       <div class="inlinenavi">
         <h4>Hey guys this is a redirector</h4>
         <br/>
-        <a href="/">
+        <a href="../">
           <button class="buttonnavi">main page</button>
         </a>
-        <a href="/astley/">
+        <a href="../astley/">
           <button class="buttonnavi">astley.</button>
         </a>
-        <a href="/yap/">
+        <a href="../yap/">
           <button class="buttonnavi">most recent yap</button>
         </a>
-        <a href="/news/">
-          <button class-"buttonnavihere">Aster News</button>
+        <a href="../news/">
+          <button class="buttonnavihere">Aster News</button>
         </a>
       </div>
       <h1>10th Aug 2025</h1>
@@ -51,5 +62,5 @@
       <p>Benjamin Netanyahu announces another operation to take down the two remaining Hamas strongholds in Gaza City to "end the war speedily". In Gaza, airdrops take more lives as 23 people die by the crates. A 14 year old boy is confirmed to have died
       by such by Reuters.</p>
     </div>
-  </body>
+  </body> 
 </html>
