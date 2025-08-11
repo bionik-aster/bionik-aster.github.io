@@ -108,6 +108,13 @@ function cockandballs() {
         `no one seems to care that i exist and even i dont when im pissed /lyr`,
         `holyfuck.js`,
         `return to nothing`,
+        `fuck you too kommit <3`,
+        `IM NOT A FEMBOY AHHHHHHH`,
+        `eating ass, in teh halls<br>eating ass, in teh halls`,
+        `Dying of Death in this Forsakened place`,
+        `florence give up your pointless struggle against the gay`,
+        `now with gender crisis`,
+        
 
 
     ];
