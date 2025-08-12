@@ -114,6 +114,11 @@ function cockandballs() {
         `Dying of Death in this Forsakened place`,
         `florence give up your pointless struggle against the gay`,
         `now with gender crisis`,
+        `kommit stop stealing my shit`,
+        `at least he knows how to string together code`,
+        `plundering for functional css and javascript`,
+        `about as optimized as my brain is for new information`,
+        `held together by hopes, dreams, a bit of duct tape and a <i><b>blessing from the digital gods</b></i>`,
         
 
 
