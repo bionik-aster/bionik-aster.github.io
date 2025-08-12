@@ -119,6 +119,7 @@ function cockandballs() {
         `plundering for functional css and javascript`,
         `about as optimized as my brain is for new information`,
         `held together by hopes, dreams, a bit of duct tape and a <i><b>blessing from the digital gods</b></i>`,
+        `wait, you're supposed to write your own code?`,
         
 
 
