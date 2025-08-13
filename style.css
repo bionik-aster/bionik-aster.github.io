@@ -13,6 +13,7 @@ html {
 a {
   text-decoration: none;
 }
+/*past yap config*/
 .pastyap {
   margin-top: 10px;
   margin-bottom: 10px;
@@ -27,9 +28,13 @@ a {
   font-size: 0.75em;
   color: #010101;
   border: 3px solid #040404;
-  box-shadow: 2px, -2px, 6px, rgba(0,0,0,0.2);
+  box-shadow: 2px -2px 6px rgba(0,0,0,0.2);
   margin-top: 5px;
   margin-bottom: 5px;
+}
+.pastyapcontent {
+  margin-left: 2px;
+  margin-right: 2px;
 }
 /*gallery config*/
 div.gallery {
@@ -85,17 +90,17 @@ nav {
   flex-direction: column;
   height: 100vh;
   padding: 0 0.5rem;
-  width: 250px
+  width: 250px;
 }
 nav a {
   text-decoration: none;
   color: #1c1800;
   line-height: 50px;
-  font-size: 22px
+  font-size: 22px;
 }
 
 nav a:hover {
-  color: #c4a704
+  color: #c4a704;
 }
 div .nav{
   padding: 30px 0;
