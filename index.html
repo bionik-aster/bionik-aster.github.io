@@ -43,6 +43,19 @@
         <a href="/news/">
           <button class="buttonnavi">Aster News</button>
         </a>
+        <br/>
+        <button class="buttonnavi" onclick="ToggleTheme()">Change to DARK mode!</button>
+        <script>
+          function toggleTheme() {
+            document.body.classList.toggle('dark-theme');
+            document.body.classList.toggle('light-theme');
+          }
+
+          // Optional: Set default theme
+          window.onload = () => {
+            document.body.classList.add('light-theme');
+          };
+        </script>
       </div>
       <h1>about me</h1>
       <img src="/images/aster_pfp.jpg" alt="aster's pfp" width="256" height="256">
