@@ -13,6 +13,19 @@ html {
 a {
   text-decoration: none;
 }
+.pastyap {
+  font-size: 0.6em;
+  color: #01010180;
+  border: 1px solid #04040480;
+  transition: font-size 1.5s, color 1.5s, border 1s, background 1s, box-shadow 0.75s;
+  transition-delay: 0.5s;
+}
+.pastyap:hover {
+  font-size: 0.75em;
+  color: #010101;
+  border: 3px solid #040404;
+  box-shadow: 2px, -2px, 6px, rgba(0,0,0,0.2);
+}
 /*gallery config*/
 div.gallery {
   border: 1px solid #ccc;
