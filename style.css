@@ -14,17 +14,22 @@ a {
   text-decoration: none;
 }
 .pastyap {
+  margin-top: 10px;
+  margin-bottom: 10px;
   font-size: 0.6em;
   color: #01010180;
   border: 1px solid #04040480;
-  transition: font-size 1.5s, color 1.5s, border 1s, background 1s, box-shadow 0.75s;
-  transition-delay: 0.5s;
+  transition: font-size 0.5s, color 0.5s, border 0.25s, background 0.25s, box-shadow 0.75s, margin-top 0.1s, margin-bottom 0.1s;
+  transition-delay: 0.1s;
+  text-align: left;
 }
 .pastyap:hover {
   font-size: 0.75em;
   color: #010101;
   border: 3px solid #040404;
   box-shadow: 2px, -2px, 6px, rgba(0,0,0,0.2);
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 /*gallery config*/
 div.gallery {
