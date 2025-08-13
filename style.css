@@ -18,7 +18,9 @@ body.dark-theme {
 body.dark-theme nav {
   background-color: #333;
 }
-
+body.dark-theme .inlinenavi {
+  background-color: rgba(4, 127, 86, 0.8);
+}
 body.dark-theme nav a {
   color: #f0f0f0;
 }
@@ -253,10 +255,12 @@ div .nav{
     border-radius: 10px;
     cursor: pointer;
     font-size: large;
+    transition: transform 0.2s ease;
 }
 .buttonnavi:hover{
     background-color: rgba(119, 101, 245, 1);
     color: rgba(255, 161, 220, 1);
+    transform: scale(1.05);
 }
 .buttonnavihere {
   font-family: 'Montserrat', 'Calibri', 'sans-serif';
@@ -268,6 +272,12 @@ div .nav{
   border-radius: 10px;
   cursor: pointer;
   font-size: large;
+  transition: transform 0.2s ease;
+}
+.buttonnavihere:hover {
+  background-color:rgba(19, 29, 255, 0.47);
+  color:rgba(221, 221, 221, 1);
+  transform: scale(1.05);
 }
 /* the fuck am i doing :fire; */
 /* yarrrrr i steel de kode muahaha */
