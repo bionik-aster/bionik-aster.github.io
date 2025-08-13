@@ -1,20 +1,24 @@
 // Apply saved theme on page load
-(function () {
+window.onload = () => {
   const savedTheme = localStorage.getItem('theme');
   if (savedTheme === 'dark') {
-    document.documentElement.classList.add('dark-theme');
-  } else {
-    document.documentElement.classList.remove('dark-theme');
+    document.body.classList.add('dark-theme');
+  } 
+  else {
+    document.body.classList.add('light-theme');
   }
+};
 
-  window.toggleTheme = function () {
-    const isDark = document.documentElement.classList.contains('dark');
-    if (isDark) {
-      document.documentElement.classList.remove('dark-theme');
-      localStorage.setItem('theme', 'light');
-    } else {
-      document.documentElement.classList.add('dark-theme');
-      localStorage.setItem('theme', 'dark');
+  // Toggle and save theme
+function toggleTheme() {
+  if (document.body.classList.contains('dark-theme')) {
+    document.body.classList.remove('dark-theme');
+    document.body.classList.add('light-theme');
+    localStorage.setItem('theme', 'light');
+  } 
+  else {
+    document.body.classList.remove('light-theme');
+    document.body.classList.add('dark-theme');
+    localStorage.setItem('theme', 'dark');
     }
-  };
-})();
+  }
