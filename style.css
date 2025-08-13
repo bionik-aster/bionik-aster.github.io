@@ -5,6 +5,60 @@ html {
   font-size: 25px;
 }
 
+body.light-theme {
+  background-color: #fff;
+  color: #1c1800;
+}
+
+body.dark-theme {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+body.dark-theme nav {
+  background-color: #333;
+}
+
+body.dark-theme nav a {
+  color: #f0f0f0;
+}
+
+body.dark-theme nav a:hover {
+  color: #ffd700;
+}
+
+body.dark-theme .pastyap {
+  color: #cccccc80;
+  border: 1px solid #eeeeee80;
+}
+
+body.dark-theme .pastyap:hover {
+  color: #ffffff;
+  border: 3px solid #eeeeee;
+  box-shadow: 2px -2px 6px rgba(255, 255, 255, 0.2);
+}
+
+body.dark-theme .buttonnavi {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #f0f0f0;
+  transition: transform 0.2s ease;
+}
+body.dark-theme .buttonnavihere {
+  background-color: rgba(0, 237, 240, 0.5);
+  color: rgba(11, 0, 142, 1);
+  transition: transform 0.2s ease;
+}
+body.dark-theme .buttonnavi:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  color: #ffd6f0;
+  transform: scale(1.05);
+}
+body.dark-theme .buttonnavihere:hover {
+  background-color: rgba(0, 237, 240, 1);
+  color: rgba(11, 0, 142, 1);
+  transform: scale(1.05);
+}
+
 * {
   margin: 0;
   padding: 0;
