@@ -11,15 +11,40 @@ body.light-theme {
 }
 
 body.dark-theme {
-  background-color: #121212;
-  color: #f0f0f0;
+  background-color: #132308;
+  color: #36d974;
+  font-family: Consolas, Monaco, monospace;
 }
-
+body.dark-theme::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  text-shadow: 0 0 5px #c8c8c8;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(black, 0.15),
+    rgba(black, 0.15) 1px,
+    transparent 1px,
+    transparent 2px
+  );
+}
 body.dark-theme nav {
   background-color: #333;
 }
 body.dark-theme .inlinenavi {
   background-color: rgba(4, 127, 86, 0.8);
+}
+body.dark-theme .inlinenavi::after {
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(black, 0.15),
+    rgba(black, 0.15) 1px,
+    transparent 1px,
+    transparent 2px
+  );
 }
 body.dark-theme nav a {
   color: #f0f0f0;
