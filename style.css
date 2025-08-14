@@ -90,6 +90,7 @@ body.dark-theme::after {
   left: 0;
   width: 100vw;
   height: 100vh;
+  pointer-events: none;
   text-shadow: 0 0 5px #c8c8c8;
   background: flicker 0.2s infinite;
 }
