@@ -79,7 +79,7 @@ body.light-theme {
 }
 
 body.dark-theme {
-  background-color: rgba(18, 16, 16, 0.8);
+  background-color: rgba(18, 16, 16, 0.95);
   color: #36d974;
   font-family: Consolas, Monaco, monospace;
 }
