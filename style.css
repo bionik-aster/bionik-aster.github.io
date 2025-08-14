@@ -79,7 +79,7 @@ body.light-theme {
 }
 
 body.dark-theme {
-  background: rgba(18, 16, 16, 0.1);
+  background-color: rgba(18, 16, 16, 0.8);
   color: #36d974;
   font-family: Consolas, Monaco, monospace;
 }
@@ -92,7 +92,7 @@ body.dark-theme::after {
   height: 100vh;
   pointer-events: none;
   text-shadow: 0 0 5px #c8c8c8;
-  animation: flicker 0.2s infinite;
+  animation: flicker 0.5s infinite;
 }
 body.dark-theme nav {
   background-color: #333;
