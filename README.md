@@ -1,21 +1,5 @@
-# aster's website is real!!! 
-welcome to AsterOS, Aster's own Operating System !!
-## the things
-AsterLP, short for AsterLinkPortal, always in the left sidebar
-
-splashtext code directly stolen from kommitisstupid.github.io
-
-a bit of introduction id say
-
-probably adding more stuff (as well as splashtext) as time goes on
-
-## intro
-hello hello im asterOS the 14 year old responsible for running this site
-
-little do you know im not your normal 14 year old hacker, im worse
-
----
-sleep is but a concept not worth holding onto
-
----
-finally something im alright with without using ai (i lied)
+# teh intro
+hi, im aster and thats probably what you should know yeah. asterLP stands for Aster Link Portal because the navbar on the left sends you to other websites ive made over the span of a few months. I'm planning on making like a control interface where you can like type in certain commands and shit pops up.
+-----
+# what's in it
+a lot of stuff, actually. theres the main page, light and dark mode, yap session, AsterNews™ and astley (we dont talk about astley).
