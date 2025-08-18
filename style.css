@@ -338,6 +338,12 @@ div .nav{
   border: 2px #c00 solid;
   border-radius: 5px;
 }
+.warning {
+  border: 3px #ff0000 solid;
+  background-color: #ba1109;
+  color: #fefefe;
+  font-family: Times New Roman, Times, sans-serif;
+}
 .inlinenavi {
   border: 2px #d00 solid;
   border-radius: 6px;
