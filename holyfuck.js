@@ -95,7 +95,7 @@ function cockandballs() {
         `<span style="color:#00ff00;">i have thirty babies<br/> -echo, still high on weed</span>`,
         `<span style="color:#ffcd9c;">when the dust settles, just you and me remain.</span>`,
         `<span style="color:#ffcd9c;">https://files.catbox.moe/jbfwh6.jpg</span>`,
-        `also try https://kommitisstupid.github.io`,
+        `also try https://kommittt.github.io/ !`,
         `dont eat ass, in the halls<br>don't eat ass, in the halls`,
         `chaos, chaos!`,
         `i can't do anything`,
