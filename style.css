@@ -84,6 +84,13 @@ html {
   font-size: 25px;
 }
 
+footer {
+  background-color: rgba(255, 94, 0, 0.5);
+  font-size: 15px;
+  margin-top: 3px;
+  margin-left: 2px;
+}
+
 body.light-theme {
   background-color: #fff;
   color: #1c1800;
@@ -135,6 +142,11 @@ body.dark-theme nav a {
 
 body.dark-theme nav a:hover {
   color: #ffd700;
+}
+
+body.dark-theme footer {
+  background-color: rgba(8, 181, 191, 0.75)
+  color: rgba(143, 255, 232, 1)
 }
 
 body.dark-theme .pastyap {
