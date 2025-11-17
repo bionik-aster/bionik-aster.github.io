@@ -92,7 +92,8 @@ footer {
 }
 
 .conlang-script {
-  test-align: left;
+  text-align: left;
+  font-size: 17.5px;
 }
 
 body.light-theme {
@@ -155,6 +156,7 @@ body.dark-theme footer {
 
 body.dark-theme .conlang-script {
   background-color: rgba(12, 239, 225, 0.25);
+  border: 1px solid rgba(32, 0, 176, 0.9);
 }
 
 body.dark-theme .pastyap {
