@@ -91,7 +91,7 @@ footer {
   margin-left: 2px;
 }
 
-conlang-script {
+.conlang-script {
   test-align: left;
 }
 
@@ -153,7 +153,7 @@ body.dark-theme footer {
   color: rgba(143, 255, 232, 1);
 }
 
-conlang-script.dark-theme {
+body.dark-theme .conlang-script {
   background-color: rgba(12, 239, 225, 0.25);
 }
 
