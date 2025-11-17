@@ -120,6 +120,14 @@ function cockandballs() {
         `about as optimized as my brain is for new information`,
         `held together by hopes, dreams, a bit of duct tape and a <i><b>blessing from the digital gods</b></i>`,
         `wait, you're supposed to write your own code?`,
+        `freedom must reign over every last star`,
+        `helldivers never die`,
+        `earth is cool <br/> some might even call it super`,
+        `yeah i can read code but i sure as fuck cant write it`,
+        `seka dzxarcxo, duo kecxe se?`,
+        `o paixao, xi nasxekam,`,
+        `soli ximam, ledon luro,`,
+        `seka amxai ximam sako!`,
         
 
 
