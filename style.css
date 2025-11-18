@@ -199,6 +199,23 @@ body.dark-theme .buttonnavihere:hover {
 a {
   text-decoration: none;
 }
+/*progress bar*/
+.container {
+            background-color: rgba(215, 215, 215, 0.65);
+            width: 80%;
+            border-radius: 10px;
+        }
+
+.lang {
+    background-color: rgba(103, 255, 148, 1);
+    color: white;
+    padding: 1%;
+    text-align: right;
+    font-size: 15px;
+    border-radius: 10px;
+}
+/*progress is generated with width:% and the lang class before it*/
+
 /*past yap config*/
 .pastyap {
   margin-top: 10px;
