@@ -208,10 +208,9 @@ a {
 
 .lang {
     background-color: rgba(103, 255, 148, 1);
-    color: white;
     padding: 1%;
     text-align: right;
-    font-size: 15px;
+    font-size: 20px;
     border-radius: 10px;
 }
 /*progress is generated with width:% and the lang class before it*/
