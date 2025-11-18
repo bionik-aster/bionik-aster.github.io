@@ -1,5 +1,16 @@
-# teh intro
-hi, im aster and thats probably what you should know yeah. asterLP stands for Aster Link Portal because the navbar on the left sends you to other websites ive made over the span of a few months. I'm planning on making like a control interface where you can like type in certain commands and shit pops up.
+# introducioni asteram
 -----
-# what's in it
-a lot of stuff, actually. theres the main page, light and dark mode, yap session, AsterNews™ and astley (we dont talk about astley).
+Velkomme/Welcome/Xvilkom/Halu
+im aster, maker of conlangs
+avid script enthusiast
+# what to expect
+-----
+fuckton of random pages and unfinished pages as well as link portal that practically links you to my other websites probably
+# log
+-----
+## v14.6.13
+- added progress bar to conlang centre
+- renamed ikibimi to ikbm for convenience sake
+- working on spk and sl csc entries
+- planning on pk and sl cc entries
+- removed herobrine
