@@ -22,6 +22,7 @@ function sdimbt() {
             <p class="wordclass">${wordData.wordclass}</p>
             <p><b>Definition:</b> ${wordData.def}</p>
             <p><b>Usage in a sentence:</b> ${wordData.example}</p>
+            <p><b>Translation:</b> ${wordData.exampletrans}</p>
           </div>
       `;
       resultsCon.appendChild(wordDiv);
