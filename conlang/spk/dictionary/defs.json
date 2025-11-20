@@ -1,0 +1,23 @@
+[
+  {
+    "word": "Atepiki",
+    "wordclass": "Verb",
+    "def": "To try; to attempt",
+    "example": "Atepiki boni zie.",
+    "exampletrans": "To try is good."
+  },
+  {
+    "word": "Afiksi",
+    "wordclass": "Verb",
+    "def": "To fix; to repair; to mend (a physical object)",
+    "example": "Dzxon xantxugi fikso."
+    "exampletrans": "John fixes the tool."
+  },
+  {
+    "word": "Azxeti",
+    "wordclass": "Verb",
+    "def": "To eat; to consume",
+    "example": "Dzxon nngapl zxeto."
+    "exampletrans": "John eats the apple."
+  },
+]
