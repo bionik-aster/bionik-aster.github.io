@@ -31,6 +31,11 @@ h2 {
 p {
   font-family: 'Source Sans 3', Trebuchet MS, sans-serif;
 }
+input {
+  line-height: 30px;
+  font-size: 25px;
+  padding: 10px 20px;
+}
 #resultsCon {
   border-radius: 10px 40px;
   border: 4px solid black;
