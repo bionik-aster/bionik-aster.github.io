@@ -11,7 +11,7 @@ function sdimbt() {
   const noSpaces = removePunc.split(' ');
   const finalWords = noSpaces.filter(word => word.length > 0);
   resultsCon.innerHTML = ''; // clear the shit
-  const foundWords = spkData.filter(entry => entry.word.toLowerCase().includes(finalWords));
+  const foundWords = spkData.filter(entry => finalWords.some(word => entry.word.toLowerCase().includes(word)));
 
   if (foundWords.length > 0) {
     foundWords.forEach(wordData => {
