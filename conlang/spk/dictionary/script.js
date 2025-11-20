@@ -1,8 +1,7 @@
 // shit to use
 const searchIn = document.getElementById("searchIn");
-const searchBut = document.getElementById("searchBut");
 const resultsCon = document.getElementById("resultsCon");
-searchBut.addEventListener('click', sdimbt);
+searchIn.addEventListener('input', sdimbt);
 let spkData = [];
 
 function sdimbt() {
@@ -42,7 +41,7 @@ async function gamesGone() {
     if (!response.ok) throw new Error("AError 001: Failed to load data");
     spkData = await response.json();
   } catch(e) {
-    console.error('AError 001: Failed to load data', e);
+    console.error("AError 001: Failed to load data:", e);
   }
 }
 gamesGone();
