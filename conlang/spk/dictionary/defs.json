@@ -26,5 +26,19 @@
     "def": "To march; to walk in synchronized step; To perform a (military) parade",
     "example": "Dzxena ke Dzxon aLipi dzxarcxo.",
     "exampletrans": "Jenna and John march in town."
+  },
+  {
+    "word": "Xek",
+    "wordclass": "Adjective",
+    "def": "Something that is black; of African descent; black-skinned",
+    "example": "Dzxon xek zie.",
+    "exampletrans": "John is black."
+  },
+  {
+    "word": "Xek",
+    "wordclass": "Derogatory",
+    "def": "[DEROGATORY] A foreigner",
+    "example": "Xek ngeok zie.",
+    "exampletrans": "The damn foreigner is bad."
   }
 ]
