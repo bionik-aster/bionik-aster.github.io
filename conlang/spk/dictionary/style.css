@@ -43,6 +43,12 @@ html {
 .Adverb {
   border: 5px solid #f606ac;
 }
+.Derogatory {
+  border: 5px dotted #ff0000;
+}
+.Derogatory::before {
+  content: "The following content is derogatory/a slur. Read with caution.";
+}
 /* searchbar */
 .searchbar {
   border-radius: 10px;
