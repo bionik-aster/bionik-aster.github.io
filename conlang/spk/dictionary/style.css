@@ -10,6 +10,10 @@ html {
   border: 5px solid;
   margin: 10px;
 }
+.wodbox-content {
+  padding-left: 4px;
+  padding-right: 4px;
+}
 .wordclass {
   color: #626262;
   font-size: 12px;
@@ -20,6 +24,26 @@ html {
   font-size: 20px;
   color: #000000;
 }
+// wordclass stuff
+.Verb {
+  border: 5px solid #f93500;
+}
+.Noun {
+  border: 5px solid #025ad6;
+}
+.Adjective {
+  border: 5px solid #00e400;
+}
+.Preposition {
+  border: 5px solid #f6cd06;
+}
+.Interjection {
+  border: 5px solid #06f6f2;
+}
+.Adverb {
+  border: 5px solid #f606ac;
+}
+// searchbar
 .searchbar {
   border-radius: 10px;
   border: 3px solid black;
