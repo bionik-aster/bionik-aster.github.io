@@ -16,14 +16,15 @@ function sdimbt() {
   if (foundWords.length > 0) {
     foundWords.forEach(wordData => {
       const wordDiv = document.createElement('div');
+      wordDiv.className = `wordbox ${wordData.wordclass}`;
       wordDiv.innerHTML = `
-          <div class="wordbox">
-            <h2>${wordData.word}</h2>
-            <p class="wordclass">${wordData.wordclass}</p>
-            <p><b>Definition:</b> ${wordData.def}</p>
-            <p><b>Usage in a sentence:</b> ${wordData.example}</p>
-            <p><b>Translation:</b> ${wordData.exampletrans}</p>
-          </div>
+        <div class="wordbox-content">
+          <h2>${wordData.word}</h2>
+          <p class="wordclass">${wordData.wordclass}</p>
+          <p><b>Definition:</b> ${wordData.def}</p>
+          <p><b>Usage in a sentence:</b> ${wordData.example}</p>
+          <p><b>Translation:</b> ${wordData.exampletrans}</p>
+        </div>
       `;
       resultsCon.appendChild(wordDiv);
     });
