@@ -1,0 +1,16 @@
+[
+  {
+    "word": "Beep",
+    "wordclass": "Interjection",
+    "def": "Good; Yes; [FIRST PERSON SINGULAR PRONOUN]",
+    "example": "Bop? <br/> Beep, skabop?",
+    "exampletrans": "How are you? <br/> Good, and you?"
+  },
+  {
+    "word": "Bop",
+    "wordclass": "Question",
+    "def": "[SENTENCE] How are you?",
+    "example": "Bop?",
+    "exampletrans": "How are you?"
+  }
+]
