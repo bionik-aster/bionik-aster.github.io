@@ -2,7 +2,7 @@
   {
     "word": "Beep",
     "wordclass": "Interjection",
-    "def": "Good; Yes; [FIRST PERSON SINGULAR PRONOUN]",
+    "def": "Good; [FIRST PERSON SINGULAR PRONOUN]",
     "example": "Bop? <br/> Beep, skabop?",
     "exampletrans": "How are you? <br/> Good, and you?"
   },
@@ -12,5 +12,26 @@
     "def": "[SENTENCE] How are you?",
     "example": "Bop?",
     "exampletrans": "How are you?"
+  },
+  {
+    "word": "Beop",
+    "wordclass": "Interjection",
+    "def": "Average; Bad; [FIRST PERSON PLURAL PRONOUN]",
+    "example": "Bop? <br/> Beop...",
+    "exampletrans": "How are you? <br/> Eh..."
+  },
+  {
+    "word": "Boop",
+    "wordclass": "Interjection",
+    "def": "Very bad; Terrible",
+    "example": "Bop? <br/> Boop. <br/> Bep? <br/> Buep...",
+    "exampletrans": "How are you? <br/> Terrible. <br/> Why? <br/> Uh..."
+  },
+  {
+    "word": "Buep",
+    "wordclass": "Interjection",
+    "def": "[FILLER INTERJECTION] Erm; Uh; Hmm",
+    "example": "N/A",
+    "exampletrans": "N/A"
   }
 ]
