@@ -1,6 +1,8 @@
 [
   {
     "word": "Atepiki",
+    "forms": "Tepiklo, Tepiko, Tepikko, Tepiklon, Tepikon, Tepikkon, Atepiklo, Atepiko, Atepikko, Atepikilo",
+    "inanforms": "Tepikle, Tepike, Tepikke, Tepiklen, Tepiken, Tepikken, Atepikle, Atepike, Atepikke, Atepikile",
     "wordclass": "Verb",
     "def": "To try; to attempt",
     "example": "Atepiki boni zie.",
@@ -8,6 +10,8 @@
   },
   {
     "word": "Afiksi",
+    "forms": "Fikslo, Fikso, Fiksko, Fikslon, Fikson, Fikskon, Afikslo, Afikso, Afiksko, Afiksilo",
+    "inanforms": "Fiksle, Fikse, Fikske, Fikslen, Fiksen, Fiksken, Afiksle, Afikse, Afikske, Afiksile",
     "wordclass": "Verb",
     "def": "To fix; to repair; to mend (a physical object)",
     "example": "Dzxon xantxugi fikso.",
@@ -15,13 +19,15 @@
   },
   {
     "word": "Azxeti",
+    "forms": "Zxetlo, Zxeto, Zxetko, Zxetlon, Zxeton, Zxetkon, Azxetlo, Azxeto, Azxetko, Azxetilo",
+    "inanforms": "Zxetle, Zxete, Zxetke, Zxetlen, Zxeten, Zxetken, Azxetle, Azxete, Azxetke, Azxetile",
     "wordclass": "Verb",
     "def": "To eat; to consume",
     "example": "Dzxon nngapl zxeto.",
     "exampletrans": "John eats the apple."
   },
   {
-    "word": "Adzxarzxi",
+    "word": "Adzxarcxi",
     "wordclass": "Verb",
     "def": "To march; to walk in synchronized step; To perform a (military) parade",
     "example": "Dzxena ke Dzxon aLipi dzxarcxo.",
@@ -54,5 +60,7 @@
     "def": "To be; [COPULA VERB]",
     "example": "Azi ki azin, zie kiziso.",
     "exampletrans": "To be or not to be, that is the question."
-  }
+  },
+  (
+  "word": "
 ]
