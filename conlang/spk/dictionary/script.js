@@ -9,22 +9,38 @@ function sdimbt() {
   const removePunc = sanitizeSearch.replace(/[!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~]/g, '');
   const noSpaces = removePunc.split(' ');
   const finalWords = noSpaces.filter(word => word.length > 0);
-  resultsCon.innerHTML = ''; // clear the shit
-  const foundWords = spkData.filter(entry => finalWords.some(word => entry.word.toLowerCase().includes(word)));
-  foundWords.sort((a,b) => a.word.localeCompare(b.word));
+  resultsCon.innerHTML = '';
+
+  const foundWords = spkData.filter(entry => 
+    finalWords.some(word => {
+      // Check if search matches the main word
+      if (entry.word.toLowerCase().includes(word)) return true;
+      
+      // Check if search matches any form in "forms"
+      if (entry.forms && entry.forms.toLowerCase().includes(word)) return true;
+      
+      // Check if search matches any form in "inanforms"
+      if (entry.inanforms && entry.inanforms.toLowerCase().includes(word)) return true;
+      
+      return false;
+    })
+  );
+
+  // Sort alphabetically
+  foundWords.sort((a, b) => a.word.localeCompare(b.word));
 
   if (foundWords.length > 0) {
     foundWords.forEach(wordData => {
       const wordDiv = document.createElement('div');
       wordDiv.className = `wordbox ${wordData.wordclass}`;
       wordDiv.innerHTML = `
-        <div class="wordbox-content">
-          <h2>${wordData.word}</h2>
-          <p class="wordclass">${wordData.wordclass}</p>
-          <p><b>Definition:</b> ${wordData.def}</p>
-          <p><b>Usage in a sentence:</b> ${wordData.example}</p>
-          <p><b>Translation:</b> ${wordData.exampletrans}</p>
-        </div>
+        <h2>${wordData.word}</h2>
+        <p class="wordclass">${wordData.wordclass}</p>
+        <p><b>Alternate animate forms:</b> ${wordData.forms}</p>
+        <p><b>Alternate inanimate forms:</b> ${wordData.inanforms}</p>
+        <p><b>Definition:</b> ${wordData.def}</p>
+        <p><b>Usage in a sentence:</b> ${wordData.example}</p>
+        <p><b>Translation:</b> ${wordData.exampletrans}</p>
       `;
       resultsCon.appendChild(wordDiv);
     });
