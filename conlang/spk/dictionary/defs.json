@@ -40,5 +40,19 @@
     "def": "[DEROGATORY] A foreigner",
     "example": "Xek ngeok zie.",
     "exampletrans": "The damn foreigner is bad."
+  },
+  {
+    "word": "Negrazock",
+    "wordclass": "Noun",
+    "def": "[ARCHAIC, DEROGATORY IN MODERN SENSE] A black person, a tribe with predominantly black people",
+    "example": "Negrazock aAfriko se azi.",
+    "exampletrans": "Black people can be in Africa."
+  },
+  {
+    "word": "Azi",
+    "wordclass": "Verb",
+    "def": "To be; [COPULA VERB]",
+    "example": "Azi ki azin, zie kiziso.",
+    "exampletrans": "To be or not to be, that is the question."
   }
 ]
