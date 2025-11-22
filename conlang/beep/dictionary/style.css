@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+html {
+  text-align: left;
+  font-family: Tahoma, sans-serif;
+  font-size: 20px;
+}
+.wordbox {
+  border-radius: 15px 50px;
+  border: 5px solid;
+  margin: 10px;
+}
+.wordbox-content {
+  padding-left: 15px;
+  padding-right: 4px;
+}
+.wordclass {
+  color: #626262;
+  font-size: 12px;
+  transition: font-size 0.5s, color 0.5s;
+  transition-delay: 0.15s
+}
+.wordclass:hover {
+  font-size: 20px;
+  color: #000000;
+}
+/* wordclass stuff */
+.Verb {
+  border: 5px solid #f93500;
+}
+.Noun {
+  border: 5px solid #025ad6;
+}
+.Adjective {
+  border: 5px solid #00e400;
+}
+.Preposition {
+  border: 5px solid #f6cd06;
+}
+.Interjection {
+  border: 5px solid #06f6f2;
+}
+.Adverb {
+  border: 5px solid #f606ac;
+}
+.Question {
+  border: 5px solid #fb542b;
+}
+.Exclamation {
+  border: 5px solid #00909f;
+}
+.Derogatory {
+  border: 5px dotted #ff0000;
+}
+.Derogatory::before {
+  content: "The following content is derogatory/a slur. Read with caution.";
+}
+/* searchbar */
+.searchbar {
+  border-radius: 10px;
+  border: 3px solid black;
+  font-family: Source Sans 3, sans-serif;
+}
+h2 {
+  font-family: 'Lora', Times New Roman, serif;
+}
+p {
+  font-family: 'Source Sans 3', Trebuchet MS, sans-serif;
+}
+input {
+  line-height: 30px;
+  font-size: 25px;
+  padding: 10px 20px;
+}
+#resultsCon {
+  border-radius: 10px 40px;
+  border: 4px solid black;
+  margin: 5px;
+}
