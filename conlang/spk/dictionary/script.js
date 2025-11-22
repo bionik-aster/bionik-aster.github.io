@@ -34,13 +34,15 @@ function sdimbt() {
       const wordDiv = document.createElement('div');
       wordDiv.className = `wordbox ${wordData.wordclass}`;
       wordDiv.innerHTML = `
-        <h2>${wordData.word}</h2>
-        <p class="wordclass">${wordData.wordclass}</p>
-        <p><b>Alternate animate forms:</b> ${wordData.forms}</p>
-        <p><b>Alternate inanimate forms:</b> ${wordData.inanforms}</p>
-        <p><b>Definition:</b> ${wordData.def}</p>
-        <p><b>Usage in a sentence:</b> ${wordData.example}</p>
-        <p><b>Translation:</b> ${wordData.exampletrans}</p>
+        <div class="wordbox-content">
+          <h2>${wordData.word}</h2>
+          <p class="wordclass">${wordData.wordclass}</p>
+          <p><b>Alternate animate forms:</b> ${wordData.forms}</p>
+          <p><b>Alternate inanimate forms:</b> ${wordData.inanforms}</p>
+          <p><b>Definition:</b> ${wordData.def}</p>
+          <p><b>Usage in a sentence:</b> ${wordData.example}</p>
+          <p><b>Translation:</b> ${wordData.exampletrans}</p>
+        </div>
       `;
       resultsCon.appendChild(wordDiv);
     });
