@@ -11,7 +11,7 @@ function sdimbt() {
   const finalWords = noSpaces.filter(word => word.length > 0);
   resultsCon.innerHTML = '';
 
-  const foundWords = spkData.filter(entry => 
+  const foundWords = bbData.filter(entry => 
     finalWords.some(word => {
       // Check if search matches the main word
       if (entry.word.toLowerCase().includes(word)) return true;
