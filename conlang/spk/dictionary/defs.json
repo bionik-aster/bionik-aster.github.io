@@ -29,6 +29,8 @@
   {
     "word": "Adzxarcxi",
     "wordclass": "Verb",
+    "forms": "Dzxarcxlo, Dzxarcxo, Dzxarcxko, Dzxarcxlon, Dzxarcxon, Dzxarcxkon, Adzxarcxlo, Adzxarcxo, Adzxarcxko, Adzxarcxilo",
+    "inanforms": "Dzxarcxle, Dzxarcxe, Dzxarcxke, Dzxarcxlen, Dzxarcxen, Dzxarcxken, Adzxarcxle, Adzxarcxe, Adzxarcxke, Adzxarcxile",
     "def": "To march; to walk in synchronized step; To perform a (military) parade",
     "example": "Dzxena ke Dzxon aLipi dzxarcxo.",
     "exampletrans": "Jenna and John march in town."
@@ -57,8 +59,26 @@
   {
     "word": "Azi",
     "wordclass": "Verb",
+    "forms": "Zilo/Zile, Zio/Zie, Ziko/Zike",
+    "inanforms": "Zile, Zie, Zike",
     "def": "To be; [COPULA VERB]",
     "example": "Azi ki azin, zie kiziso.",
     "exampletrans": "To be or not to be, that is the question."
+  },
+  {
+    "word": "Afra-abzarkia",
+    "wordclass": "Noun",
+    "def": "[ACADEMIC, RARE] Eastern Africa encompassing the Horn of Africa and all African nations with a border with the Indian Ocean",
+    "example": "aAfra-abzarkia zie.",
+    "exampletrans": "They are in East Africa."
+  },
+  {
+    "word": "Asaki",
+    "wordclass": "Verb",
+    "forms": "Saklo, Sako, Sakko, Saklon, Sakon, Sakkon, Asaklo, Asako, Asakko, Asakilo",
+    "inanforms": "Sakle, Sake, Sakke, Saklen, Saken, Sakken, Asakle, Asake, Asakke, Asakile",
+    "def": "To kill; to murder; to perform a sacrifical ritual",
+    "example": "Dzxon Dzxuli saklo. Ax man!",
+    "exampletrans": "John killed Juli. Oh no!"
   }
 ]
