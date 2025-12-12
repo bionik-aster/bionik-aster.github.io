@@ -369,6 +369,18 @@ div .nav{
     padding: 15px;
   }
 
+  h1 {
+    font-size: 15px;
+  }
+
+  h3 {
+    font-size: 12px;
+  }
+
+  p {
+    font-size: 10px;
+  }
+
   nav h1 {
     font-size: 20px; /* Shrinks heading if needed */
   }

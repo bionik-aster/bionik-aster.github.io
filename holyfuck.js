@@ -128,6 +128,16 @@ function cockandballs() {
         `o paixao, xi nasxekam,`,
         `soli ximam, ledon luro,`,
         `seka amxai ximam sako!`,
+        `Steel yourselves helldivers, we're going in`,
+        `Get out there and dispense justice with extreme prejudice!`,
+        `fuck you, fuck you and fuck you specifically!`,
+        `alive since 11th december 2025`,
+        `i eated it`,
+        `echo my man keep your foot fetish out of my line of sight`,
+        `mmm cornballs`,
+        `the great meme reset is fake`,
+        `look at the stars. what do you see?`,
+        `mfw half the pages on here arent even a quarter of the way done`,
         
 
 
