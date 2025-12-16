@@ -214,6 +214,10 @@ a {
 ul {
   list-style-type: none;
 }
+q {
+  font-size: 12.5px;
+  font-family:'Times New Roman', Times, serif;
+}
 /*progress bar*/
 .container {
             background-color: rgba(215, 215, 215, 0.65);
@@ -377,7 +381,15 @@ div .nav{
     font-size: 12px;
   }
 
+  li {
+    font-size: 10px;
+  }
+
   p {
+    font-size: 10px;
+  }
+
+  q {
     font-size: 10px;
   }
 
