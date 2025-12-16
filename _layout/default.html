@@ -11,7 +11,7 @@
         <script src="{{ '/toggletheme.js' | relative_url }}" type="text/javascript"></script>
         <script>
             document.addEventListener('DOMContentLoaded', function() {
-                fetch('https://api.github.com/repos/bionik-aster/bionik-aster.github.io/commits?path={{ page.url }}&per_page=1')
+                fetch('https://api.github.com/repos/bionik-aster/bionik-aster.github.io/commits?path={{ page.path }}&per_page=1')
                 .then(r => r.json())
                 .then(commits => {
                     const lastMod = new Date(commits[0].commit.committer.date);
