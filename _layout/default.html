@@ -9,10 +9,20 @@
   <meta name="author" content="{{ page.author }}">
   <link rel="shortcut icon" href="{{ '/images/favicon.png' | relative_url }}" type="image/png">
   <script src="{{ '/toggletheme.js' | relative_url }}" type="text/javascript"></script>
+  <script>
+fetch('https://api.github.com/repos/bionik-aster/bionik-aster.github.io/commits?path={{ page.path }}&per_page=1')
+  .then(r => r.json())
+  .then(commits => {
+    const lastMod = new Date(commits[0].commit.committer.date);
+    document.getElementById('last-modified').textContent = lastMod.toLocaleDateString();
+  });
+</script>
 </head>
 <body>
   <div class="scanline"></div>
   {{ content }}
-  <footer> {{ page.last_modified_at | default: page.date | date: "%B %d, %Y" }} </footer>
+  <footer>
+    <p id="last-modified">Loading...</p>
+  </footer>
 </body>
 </html>
