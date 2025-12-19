@@ -26,9 +26,9 @@ async function loadStories() {
             `;
             storyList.appendChild(card);
         });
-    } catch (err) {
+    } catch (e) {
         storyList.innerHTML = '<p>Failed to load stories.</p>';
-        console.error(err);
+        console.error(e);
     }
 }
 
