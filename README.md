@@ -1,13 +1,23 @@
-# introducioni asteram
+# introducioni_asteram
 -----
 Velkomme/Welcome/Xvilkom/Halu
 im aster, maker of conlangs
 avid script enthusiast
-# what to expect
+apparently an os
+
+Thank you for choosing AsterLP. I hope you have as much fun using it as I did making it.
+-sincerely, aster irving
+
+# what_to_expect
 -----
-fuckton of random pages and unfinished pages as well as link portal that practically links you to my other websites probably
-# log
+fuckton of random pages and unfinished projects
+i procrastinate a lot so dont expect polished shit
+# system_log
 -----
+## v14.9.0
+- added /revision/eng/index.html (finally!)
+- added more stuff to /revision/
+- removed herobrine (again again)
 ## v14.8.5
 - added /revision/
 - ceased progress on csc and cc until further notice
