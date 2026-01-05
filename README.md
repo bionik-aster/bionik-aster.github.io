@@ -14,6 +14,10 @@ fuckton of random pages and unfinished projects
 i procrastinate a lot so dont expect polished shit
 # system_log
 -----
+## v14.9.0.2
+- added /anthem/ (to be added to)
+- edited index.html so `<div class="content">` finally has a `<div>` to pair
+- i give up on herobrine honestly
 ## v14.9.0
 - added /revision/eng/index.html (finally!)
 - added more stuff to /revision/
