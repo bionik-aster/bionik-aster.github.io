@@ -84,6 +84,11 @@ html {
   font-size: 25px;
 }
 
+.error {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.75rem;
+}
+
 footer {
   background-color: rgba(255, 94, 0, 0.5);
   font-size: 15px;
