@@ -196,6 +196,9 @@ body.dark-theme .buttonnavihere:hover {
   transform: scale(1.05);
 }
 
+img {
+  width: 50dvw;
+}
 * {
   margin: 0;
   padding: 0;
