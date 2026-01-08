@@ -44,6 +44,7 @@ currently only A001 is fully operational but expect the others in the future
 -----
 | Version | Changes |
 |---------|---------|
+| v14.9.3 | Added /revision/geo/; Added placeholder default html for /geo/clim/; Fixed dvh issue with AsterLP image
 | v14.9.1 | Added URL, current subdirectories, and subdirectory display to `404.html`; added `error.png`; added class `error`; added AError log to `404.html` |
 | v14.9.0.2 | Added /anthem/; fixed `<div class="content">` pairing in index.html; gave up on herobrine |
 | v14.9.0 | Added /revision/eng/index.html; added more stuff to /revision/; removed herobrine |
