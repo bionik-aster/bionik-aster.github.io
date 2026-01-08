@@ -7,17 +7,13 @@
         <meta name="author" content="Aster Irving">
         <link rel="shortcut icon" href="/images/favicon.png" type="image/png">
         <script src="/toggletheme.js" type="text/javascript"></script>
-        <style> nav { background-color: #00ec00; } </style>
+        <script src="/aerrors.js" type="text/javascript"></script>
   </head>
   <body>
-    <div class="scanline"></div>
+    <br>
     <h3>This page is under construction. Come back later!</h3>
-    <button id="red">Go to Geography portal</button>
     <button id="back">Go back</button>
     <script>
-        document.getElementById('red').onclick = function() {
-            location.href = 'https://bionik-aster.github.io/revision/geo/';
-        };
         document.getElementById('back').onclick = function() {
             if (history.length > 1) {
                 history.back();
