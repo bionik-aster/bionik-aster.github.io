@@ -14,7 +14,7 @@
     "inanforms": "Fiksle, Fikse, Fikske, Fikslen, Fiksen, Fiksken, Afiksle, Afikse, Afikske, Afiksile",
     "wordclass": "Verb",
     "def": "To fix; to repair; to mend (a physical object)",
-    "example": "Dzxon xantxugi fikso.",
+    "example": "Dzxon lidzxacxi fikso.",
     "exampletrans": "John fixes the tool."
   },
   {
@@ -80,5 +80,26 @@
     "def": "To kill; to murder; to perform a sacrifical ritual",
     "example": "Dzxon Dzxuli saklo. Ax man!",
     "exampletrans": "John killed Juli. Oh no!"
+  },
+  {
+    "word": "Paixao",
+    "wordclass": "Noun",
+    "def": "Land; A country; a nation",
+    "example": "Ineri paixao zie.",
+    "exampletrans": "Ineri is a country."
+  },
+  {
+    "word": "Lidzxacxi",
+    "wordclass": "Noun",
+    "def": "A handheld tool (e.g. hammer, screwdriver, etc.)",
+    "example": "Dzxon iLidzxacxi fikso.",
+    "exampletrans": "John fixes with the tool."
+  },
+  {
+    "word": "Lipi",
+    "wordclass": "Noun",
+    "def": "A town; A moderately populated settlement (~5,000+)",
+    "example": "Lipi xutizxam zie.",
+    "exampletrans": "The town is massive."
   }
 ]
