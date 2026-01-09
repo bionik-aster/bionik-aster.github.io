@@ -43,6 +43,9 @@ html {
 .Adverb {
   border: 5px solid #f606ac;
 }
+.Particle {
+  border: 5px solid #006e00;
+}
 .Derogatory {
   border: 5px dotted #ff0000;
 }
