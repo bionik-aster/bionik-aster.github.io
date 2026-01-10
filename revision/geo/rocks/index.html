@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>AsterLP - Under construction!</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/style.css" type="text/css">
+        <meta name="description" content="Uh oh, this page is under development!">
+        <meta name="author" content="Aster Irving">
+        <link rel="shortcut icon" href="/images/favicon.png" type="image/png">
+        <script src="/toggletheme.js" type="text/javascript"></script>
+        <script src="/aerrors.js" type="text/javascript"></script>
+  </head>
+  <body>
+    <br>
+    <h3>This page is under construction. Come back later!</h3>
+    <button id="back">Go back</button>
+    <script>
+        document.getElementById('back').onclick = function() {
+            if (history.length > 1) {
+                history.back();
+            } else {
+                alert("AError A001(1)\nNo previous page found, redirecting to home.");
+                setTimeout(() => location.href = '/', 2500);
+            };
+        };
+        const curTime = new Date().toLocaleString();
+        console.warn(`AError A998 "Under construction" @ ${curTime}`);
+        console.log(`Suggested course of action: None. Let the dev do their thing.`);
+    </script>
+  </body>
+</html>

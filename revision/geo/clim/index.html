@@ -7,28 +7,75 @@
         <meta name="author" content="Aster Irving">
         <link rel="shortcut icon" href="/images/favicon.png" type="image/png">
         <script src="/toggletheme.js" type="text/javascript"></script>
+        <script src="/aerrors.js" type="text/javascript"></script>
         <style> nav { background-color: #00ec00; } </style>
   </head>
   <body>
     <div class="scanline"></div>
-    <h3>This page is under construction. Come back later!</h3>
-    <button id="red">Go to Geography portal</button>
-    <button id="back">Go back</button>
-    <script>
-        document.getElementById('red').onclick = function() {
-            location.href = 'https://bionik-aster.github.io/revision/geo/';
-        };
-        document.getElementById('back').onclick = function() {
-            if (history.length > 1) {
-                history.back();
-            } else {
-                alert("AError A001(1)\nNo previous page found, redirecting to home.");
-                setTimeout(() => location.href = '/', 2500);
-            };
-        };
-        const curTime = new Date().toLocaleString();
-        console.warn(`AError A998 "Under construction" @ ${curTime}`);
-        console.log(`Suggested course of action: None. Let the dev do their thing.`);
-    </script>
+    <nav>
+      <div class="nav">
+        <img src="/images/favicon-black.png" height="128">
+        <h1 class="ikibimi">Levis LP</h1>
+        <h3>Revision LP</h3>
+      </div>
+      <div class="nav-content">
+        <a href="/">Home</a><br/>
+        <a href="/revision/">RevisionLP Mainpage</a><br/>
+        <a href="/revision/spa/">GCSE Spanish Edexcel</a><br/>
+        <a href="/revision/bio/">GCSE Biology AQA</a><br/>
+        <a href="/revision/geo/">GCSE Geography AQA</a>
+      </div>
+    </nav>
+    <div class="content" id="crt">
+      <button class="buttonnavi" onclick="toggleTheme()">Light or Dark Switch</button>
+      <div class="contents-display">
+            <h4>Contents</h4>
+            <ul>
+                <li><a href="#climchange">What is climate change?</a></li>
+                <li><a href="#causes">What are the causes of CC?</a></li>
+                <li><a href="#mitvsada">Mitigation vs Adaptation</a></li>
+            </ul>
+      </div>
+      <h1>Climate Change</h1>
+      <h3 id="climchange">What is climate change?</h3>
+      <hr/>
+      <p>In a nutshell, climate change refers to the rapid <b>change</b> in <b>climate</b>, generally on Earth.</p>
+      <p>
+        However, climate change is not a one-off event, and it is not entirely human-caused though human activity
+        has severely accelerated this change.
+      </p>
+      <br/>
+      <h3 id="causes">What are the causes of climate change?</h3>
+      <hr>
+      <h4>Human causes</h4>
+      <p>
+        Climate change is accelerated by human activity such as the burning of fossil fuels (e.g. coal, oil, gas),
+        and these activities cause CO&#8322; and methane buildup, both of which are <b>greenhouse gases</b>.
+        These gases trap heat within Earth's atmosphere and keeps it warm, but also can harm Earth if more gases
+        affect the natural greenhouse effect.
+      </p>
+      <br>
+      <h4>Natural causes</h4>
+      <p>
+        Natural causes are events such as Milankovitch cycles, sunspot cycles, and glacial/interglacial periods
+        that naturally affect how much sunlight and heat Earth receives.
+      </p>
+      <h5>Milankovitch cycles</h5>
+      <p>
+        The collective effect of multiple aspects that affect Earth's climate, such as eccentricity
+        (how elliptical Earth's orbit around the Sun is) and obliquity (aka <i>axial tilt</i> which is defined as
+        the angle between the axis of rotation and normal to its orbital plane).
+      </p>
+      <h5>Sunspot cycles</h5>
+      <p>
+        Aka <b>Solar cycles</b> or <b>Schwabe cycles</b>, they are periodic changes in the Sun's activity over
+        11 years, measured in the amount of sunspots present. At a solar <i>maximum</i>, Earth experiences
+        higher temperatures as sunpots and coronal ejections blast solar radiation. At a solr <i>minimum</i>, the
+        opposite happens.
+      </p>
+      <footer>
+        <p>&copy; MMXXVI Aster Irving</p>
+        <p>Last updated: 18:58 UTC 10-1-2026</p>
+      </footer>
   </body>
 </html>

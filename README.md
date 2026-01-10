@@ -47,6 +47,7 @@ currently A001, A001(1) and A998 are fully operational but expect the others in 
 -----
 | Version | Changes |
 |---------|---------|
+| v14.9.5 | Changed copyright on footers; added /geo/clim/ so it is no longer only a placeholder |
 | v14.9.3.2 | Added aerrors.js and loaded into every index.html |
 | v14.9.3 | Added /revision/geo/; Added placeholder default html for /geo/clim/; Fixed dvh issue with AsterLP image; Made sidebar scrollable |
 | v14.9.1 | Added URL, current subdirectories, and subdirectory display to `404.html`; added `error.png`; added class `error`; added AError log to `404.html` |
