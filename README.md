@@ -47,6 +47,7 @@ currently A001, A001(1) and A998 are fully operational but expect the others in 
 -----
 | Version | Changes |
 |---------|---------|
+| v14.9.6 | Adjusted links to work with Vercel compatibility (GitHub Pages is still recommended) |
 | v14.9.5 | Changed copyright on footers; added /geo/clim/ so it is no longer only a placeholder |
 | v14.9.3.2 | Added aerrors.js and loaded into every index.html |
 | v14.9.3 | Added /revision/geo/; Added placeholder default html for /geo/clim/; Fixed dvh issue with AsterLP image; Made sidebar scrollable |

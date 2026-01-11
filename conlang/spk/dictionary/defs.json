@@ -36,7 +36,7 @@
     "exampletrans": "Jenna and John march in town."
   },
   {
-    "word": "Xek",
+    "word": "Xekam",
     "wordclass": "Adjective",
     "def": "Something that is black; of African descent; black-skinned",
     "example": "Dzxon xek zie.",
@@ -101,5 +101,19 @@
     "def": "A town; A moderately populated settlement (~5,000+)",
     "example": "Lipi xutizxam zie.",
     "exampletrans": "The town is massive."
+  },
+  {
+    "word": "Koen",
+    "wordclass": "Noun",
+    "def": "A park",
+    "example": "Koen aFerlo.",
+    "exampletrans": "I played in the park."
+  },
+  {
+    "word": "A",
+    "wordclass": "Particle",
+    "def": "At; in; particle to express current location",
+    "example": "Xvilkom aFrinzxa!",
+    "exampletrans": "Welcome in/to France!"
   }
 ]
