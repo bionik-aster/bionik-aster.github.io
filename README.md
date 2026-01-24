@@ -47,6 +47,7 @@ currently A001, A001(1) and A998 are fully operational but expect the others in 
 -----
 | Version | Changes |
 |---------|---------|
+| v14.9.19| Hotfix on links so /testing_ground/ works |
 | v14.9.18| Added /revision/rel/ |
 | v14.9.6 | Adjusted links to work with Vercel compatibility (GitHub Pages is still recommended) |
 | v14.9.5 | Changed copyright on footers; added /geo/clim/ so it is no longer only a placeholder |
