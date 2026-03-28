@@ -4,7 +4,7 @@
 - [About AErrors](#about_Aerrors)
 - [System Log](#system_log)
 
-# introducioni asteram
+# introducioni_asteram
 -----
 Velkomme/Welcome/Xvilkom/Halu
 im aster, maker of conlangs
