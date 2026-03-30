@@ -22,21 +22,22 @@ i procrastinate a lot so dont expect polished shit
 -----
 AErrors (short for AsterLP Errors) are a bunch of more human-readable errors compared to HTTP errors comprised of the following:
 
-| Code  | Meaning                            | HTTP Equivalent |
-|-------|------------------------------------|----------------|
-| A001  | Page not found/file missing        | 404            |
-| A001(1) | Previous page not found/missing  | 404            |
-| A002  | Parsing Error                      | 400            |
-| A003  | Server overload/Server error       | 500            |
-| A004  | Protocol violation                 | 400            |
-| A005  | Service unavailable                | 503            |
-| A005(1) | Service outdated                 | 426            |
-| A005(2) | Service unimplemented on version | 501            |
-| A005(3) | Service unsupported on browser   | 400/415        |
-| A006  | Credentials invalid (NIU\*)        | 401            |
-| A007  | Credentials forbidden (NIU\*)      | 403            |
-| A008  | Response duration timeout          | 504            |
-| A998  | Under Construction                 | 404            |
+| Code  | Meaning                                     | HTTP Equivalent |
+|-------|---------------------------------------------|-----------------|
+| A001  | Page not found/file missing                 | 404             |
+| A001(1) | Previous page not found/missing           | 404             |
+| A002  | Parsing Error                               | 400             |
+| A003  | Server overload/Server error                | 500             |
+| A004  | Protocol violation                          | 400             |
+| A005  | Service unavailable                         | 503             |
+| A005(1) | Service outdated                          | 426             |
+| A005(2) | Service unimplemented on version          | 501             |
+| A005(3) | Service unsupported on browser            | 400/415         |
+| A006  | Credentials invalid (NIU\*)                 | 401             |
+| A007  | Credentials forbidden (NIU\*)               | 403             |
+| A008  | Response duration timeout                   | 504             |
+| A998  | Faulty StarShell code (StarShell exclusive) | N/A             |
+| A999  | Under Construction                          | 404             |
 
 \*NIU is shorthand for **Not In Use** (on AsterLP)
 
@@ -47,8 +48,9 @@ currently A001, A001(1) and A998 are fully operational but expect the others in 
 -----
 | Version | Changes |
 |---------|---------|
-| v14.9.19| Hotfix on links so /testing_ground/ works |
-| v14.9.18| Added /revision/rel/ |
+| v14.11.25 | New entries to `/spk/dictionary/` |
+| v14.9.19 | Hotfix on links so /testing_ground/ works |
+| v14.9.18 | Added /revision/rel/ |
 | v14.9.6 | Adjusted links to work with Vercel compatibility (GitHub Pages is still recommended) |
 | v14.9.5 | Changed copyright on footers; added /geo/clim/ so it is no longer only a placeholder |
 | v14.9.3.2 | Added aerrors.js and loaded into every index.html |

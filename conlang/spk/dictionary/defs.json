@@ -115,5 +115,46 @@
     "def": "At; in; particle to express current location",
     "example": "Xvilkom aFrinzxa!",
     "exampletrans": "Welcome in/to France!"
+  },
+  {
+    "word": "Vora",
+    "wordclass": "Noun",
+    "def": "A mouth",
+    "example": "Seka sinzo vora.",
+    "exampletrans": "We have a mouth."
+  },
+  {
+    "word": "Asinzi",
+    "wordclass": "Verb",
+    "forms": "Sinzlo, Sinzo, Sinzko, Sinzlon, Sinzon, Sinzkon, Asinzlo, Asinzo, Asinzko, Asinzilo",
+    "inanforms": "Sinzle, Sinze, Sinzke, Sinzlen, Sinzen, Sinzken, Asinzle, Asinze, Asinzke, Asinzile",
+    "def": "To have; to innately possess (a quality or physical feature)",
+    "example": "Eka sinzo vora.",
+    "exampletrans": "I have a mouth/I innately possess a mouth."
+  },
+  {
+    "word": "Sxeston",
+    "wordclass": "Noun",
+    "def": "A stone",
+    "example": "Eka vicxlo sxeston.",
+    "exampletrans": "I had a stone."
+  },
+  {
+    "word": "Avicxi",
+    "wordclass": "Verb",
+    "forms": "Vicxlo, Vicxo, Vicxko, Vicxlon, Vicxon, Vicxkon, Avicxlo, Avicxo, Avicxko, Avicxilo",
+    "inanforms": "Vicxle, Vicxe, Vicxke, Vicxlen, Vicxen, Vicxken, Avicxle, Avicxe, Avicxke, Avicxile",
+    "def": "To have; to obtain",
+    "example": "Eka vicxlo sxeston.",
+    "exampletrans": "I had a stone."
+  },
+  {
+    "word": "Akecxi",
+    "wordclass": "Verb",
+    "forms": "Kecxlo, Kecxo, Kecxko, Kecxlon, Kecxon, Kecxkon, Akecxlo, Akecxo, Akecxko, Akecxilo",
+    "inanforms": "Kecxle, Kecxe, Kecxke, Kecxlen, Kecxen, Kecxken, Akecxle, Akecxe, Akecxke, Akecxile",
+    "def": "To see; to observe",
+    "example": "Duo kecxo se? Seka duo kecxo se?",
+    "exampletrans": "Can you see? Can you see us?"
   }
 ]
