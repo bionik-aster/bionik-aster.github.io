@@ -77,6 +77,9 @@ function sdimbt() {
       
       // Check if search matches any form in "inanforms"
       if (entry.inanforms && entry.inanforms.toLowerCase().includes(word)) return true;
+
+      // Check if search matches any english definitions
+      if (entry.def && entry.def.toLowerCase().includes(word)) return true;
       
       return false;
     })

@@ -156,5 +156,21 @@
     "def": "To see; to observe",
     "example": "Duo kecxo se? Seka duo kecxo se?",
     "exampletrans": "Can you see? Can you see us?"
+  },
+  {
+    "word": "Ajepi",
+    "wordclass": "Verb",
+    "forms": "Jeplo, Jepo, Jepko, Jeplon, Jepon, Jepkon, Ajeplo, Ajepo, Ajepko, Ajepilo",
+    "inanforms": "Jeple, Jepe, Jepke, Jeplen, Jepen, Jepken, Ajeple, Ajepe, Ajepke, Ajepile",
+    "def": "To cover; to blanket",
+    "example": "Torul zie jepen.",
+    "exampletrans": "The sky is covered."
+  },
+  {
+    "word": "Torul",
+    "wordclass": "Noun",
+    "def": "Sky",
+    "example": "Torul zie jepen.",
+    "exampletrans": "The sky is covered."
   }
 ]
